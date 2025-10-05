@@ -1,5 +1,6 @@
 # Rice-Leaf-Disease
 
+- **Dataset Link** : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1001-RiceLeaf.zip
 
 ## 🎯 Project Goal & Domain Analysis
 
